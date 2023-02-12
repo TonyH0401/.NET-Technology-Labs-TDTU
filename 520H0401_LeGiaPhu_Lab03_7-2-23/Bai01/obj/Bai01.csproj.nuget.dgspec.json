@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\1.TDTU\\5.NET Technology\\2.QT2\\520H0401_LeGiaPhu_Lab03_7-2-23\\Bai01\\Bai01.csproj": {}
+  },
+  "projects": {
+    "D:\\1.TDTU\\5.NET Technology\\2.QT2\\520H0401_LeGiaPhu_Lab03_7-2-23\\Bai01\\Bai01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1.TDTU\\5.NET Technology\\2.QT2\\520H0401_LeGiaPhu_Lab03_7-2-23\\Bai01\\Bai01.csproj",
+        "projectName": "Bai01",
+        "projectPath": "D:\\1.TDTU\\5.NET Technology\\2.QT2\\520H0401_LeGiaPhu_Lab03_7-2-23\\Bai01\\Bai01.csproj",
+        "packagesPath": "C:\\Users\\Dell Vostro\\.nuget\\packages\\",
+        "outputPath": "D:\\1.TDTU\\5.NET Technology\\2.QT2\\520H0401_LeGiaPhu_Lab03_7-2-23\\Bai01\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell Vostro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

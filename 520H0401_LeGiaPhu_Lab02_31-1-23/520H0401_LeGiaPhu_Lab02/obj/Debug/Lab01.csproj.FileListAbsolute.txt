@@ -1,0 +1,28 @@
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.csproj.SuggestedBindingRedirects.cache
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\TDTU\CNPM\TH\Lab01\bin\Debug\Lab01.exe.config
+D:\TDTU\CNPM\TH\Lab01\bin\Debug\Lab01.exe
+D:\TDTU\CNPM\TH\Lab01\bin\Debug\Lab01.pdb
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.Demo1.resources
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.exe
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.pdb
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.Form4.resources
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.Form5.resources
+D:\TDTU\CNPM\TH\Lab01\obj\Debug\Lab01.Form6.resources
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\bin\Debug\Lab01.exe.config
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\bin\Debug\Lab01.exe
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\bin\Debug\Lab01.pdb
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\obj\Debug\Lab01.csproj.AssemblyReference.cache
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\obj\Debug\Lab01.csproj.SuggestedBindingRedirects.cache
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\obj\Debug\Lab01.Demo1.resources
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\obj\Debug\Lab01.Form4.resources
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\obj\Debug\Lab01.Form5.resources
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\obj\Debug\Lab01.Form6.resources
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\obj\Debug\Lab01.Properties.Resources.resources
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\obj\Debug\Lab01.csproj.GenerateResource.cache
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\obj\Debug\Lab01.exe
+D:\1.TDTU\5.NET Technology\2.QT2\520H0401_LeGiaPhu_Lab02_31-1-22\520H0401_CNPM_Lab1_p2\obj\Debug\Lab01.pdb
