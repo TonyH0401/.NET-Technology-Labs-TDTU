@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Lab06_2ModelStoreContainer" CdmEntityContainer="DevConn">
+    <EntitySetMapping Name="Departments">
+      <EntityTypeMapping TypeName="Lab06_2Model.Department">
+        <MappingFragment StoreEntitySet="Department">
+          <ScalarProperty Name="DName" ColumnName="DName" />
+          <ScalarProperty Name="DNumber" ColumnName="DNumber" />
+          <ScalarProperty Name="Mgrssn" ColumnName="Mgrssn" />
+          <ScalarProperty Name="MgrStartdate" ColumnName="MgrStartdate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Dependents">
+      <EntityTypeMapping TypeName="Lab06_2Model.Dependent">
+        <MappingFragment StoreEntitySet="Dependent">
+          <ScalarProperty Name="ESSN" ColumnName="ESSN" />
+          <ScalarProperty Name="Dependent_Name" ColumnName="Dependent_Name" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="BDate" ColumnName="BDate" />
+          <ScalarProperty Name="Relationship" ColumnName="Relationship" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="Lab06_2Model.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="FName" ColumnName="FName" />
+          <ScalarProperty Name="MInit" ColumnName="MInit" />
+          <ScalarProperty Name="LName" ColumnName="LName" />
+          <ScalarProperty Name="SSN" ColumnName="SSN" />
+          <ScalarProperty Name="BDate" ColumnName="BDate" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="SuperSSN" ColumnName="SuperSSN" />
+          <ScalarProperty Name="DNo" ColumnName="DNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="students">
+      <EntityTypeMapping TypeName="Lab06_2Model.student">
+        <MappingFragment StoreEntitySet="student">
+          <ScalarProperty Name="maso" ColumnName="maso" />
+          <ScalarProperty Name="hoTen" ColumnName="hoTen" />
+          <ScalarProperty Name="ngaySinh" ColumnName="ngaySinh" />
+          <ScalarProperty Name="gioiTinh" ColumnName="gioiTinh" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
